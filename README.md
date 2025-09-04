@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # 💫 About Me:
 Hello World ! , I am <br>
 <img src="header.svg"><br>
