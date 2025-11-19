@@ -95,7 +95,7 @@ Always learning and building things that solve real problems.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer4330k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐍 Contribution Animations
-<img src="https://raw.githubusercontent.com/lucifer4330k/lucifer4330k/output/snake.svg" alt="Snake animation" />
+<img src="output/snake.svg" alt="Snake animation" />
 
 ## 📝 Recent Articles
 <div align="center" style="width: 100%">
