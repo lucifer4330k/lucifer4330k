@@ -93,30 +93,3 @@ Always learning and building things that solve real problems.
 ![](https://github-readme-stats.vercel.app/api?username=lucifer4330k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucifer4330k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer4330k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐍 Contribution Animations
-<img src="output/snake.svg" alt="Snake animation" />
-
-## 📝 Recent Articles
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1" />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2" />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3" />
-  </a>
-</div>
-
-## 📈 Visitors
-[![](https://visitcount.itsvg.in/api?id=lucifer4330k&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="output/pacman-contribution-graph.svg">
-</picture>
