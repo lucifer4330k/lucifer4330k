@@ -14,6 +14,23 @@ Hello World ! , I am <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucifer4330k&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="center">A passionate developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer4330k&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer4330k" /> </p>
+
+- 📫 How to reach me **debanjanmaji700@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codeforces.com/profile/devanger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devanger" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lucifer4330k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lucifer4330k" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucifer4330k&show_icons=true&locale=en&layout=compact" alt="lucifer4330k" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucifer4330k&show_icons=true&locale=en" alt="lucifer4330k" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer4330k&" alt="lucifer4330k" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
