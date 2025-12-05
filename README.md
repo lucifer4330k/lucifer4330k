@@ -11,14 +11,6 @@ Always learning and building things that solve real problems.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dbnjn)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debanjanmaji700@gmail.com)
 
-- Email: **debanjanmaji700@gmail.com**
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-</div>
 
 ## 🔗 Coding Profiles
 - [Codeforces @devanger](https://codeforces.com/profile/devanger)
@@ -88,8 +80,6 @@ Always learning and building things that solve real problems.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
 </div>
+<img src="github-user-contribution.svg" alt="Snake animation" />
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=lucifer4330k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucifer4330k&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer4330k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
